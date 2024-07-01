@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is D06F-469E
+
+ Directory of C:\Users\vishanth\OneDrive\Desktop\MyProject
+
+01-07-2024  14:58    <DIR>          .
+01-07-2024  13:40    <DIR>          ..
+01-07-2024  13:57               400 index.html
+01-07-2024  13:44               352 test1.txt
+01-07-2024  14:58                26 test2.txt
+               3 File(s)            778 bytes
+               2 Dir(s)  367,650,418,688 bytes free
